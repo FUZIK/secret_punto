@@ -1,8 +1,8 @@
-DATABASE_URL = "ec2-54-247-169-129.eu-west-1.compute.amazonaws.com"
+DATABASE_HOST = "ec2-54-247-169-129.eu-west-1.compute.amazonaws.com"
 DATABASE_PORT = 5432
-DATABASE = "dbm6aqb8gc2vd3"
+DATABASE_NAME = "dbm6aqb8gc2vd3"
 DATABASE_USER = "lwejloxflohbkt"
 DATABASE_PASSWORD = "963dca4e85ea295a09653fad768c530c2035732fd07800146d04b9ebc28186ca"
 
 # PuntoManagerBot
-MANAGER_TG_BOT_TOKEN = "1161956935:AAHvGN6pAUr3tF_BBp6-YgnaY-0UfAXR6nU"
+MANAGER_TG_BOT_TOKEN = "1161956935:AAEelrfE2ksdxAjdanj-Uq1kIkjnFqAX1us"
